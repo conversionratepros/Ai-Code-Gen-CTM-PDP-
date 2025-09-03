@@ -1,0 +1,8 @@
+{
+
+    "colors": { "primary": "#hex", "secondary": "#hex" },
+    "breakpoints": { "mobile": "768px", "desktop": "1024px" },
+    "animations": { "fadeIn": "0.3s ease-in" },
+    "zIndex": { "modal": 9999, "header": 1000 },
+    "fonts": { "h1" : "px25", "h2" : "px25" }
+}
